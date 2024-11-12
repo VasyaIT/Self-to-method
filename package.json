@@ -2,7 +2,7 @@
 	"name": "self-to-method",
 	"displayName": "Self to method",
 	"description": "Automatically adds 'self' as the first argument to methods in Python classes",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "VasyaIT",
 	"icon": "icon.png",
 	"engines": {

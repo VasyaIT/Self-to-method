@@ -25,3 +25,9 @@
 
 - Added comma and scape after self and cls completed
 - Updated README.md
+
+## [0.0.4] - 2024-11-12
+
+### Changed
+
+- Update README.md

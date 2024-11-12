@@ -13,6 +13,7 @@ class SomeClass:
     def some_classmethod(cls):
         ...
 
+    @staticmethod
     # nothing will be added here.
     def some_staticmethod():
         ...
